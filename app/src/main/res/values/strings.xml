@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PopupDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="popup">POPUP WINDOW</string>
+    <string name="alertdialog">ALERT DIALOG</string>
+    <string name="customalertdialog">CUSTOM ALERT DIALOG</string>
+    <string name="progressdialog">PROGRESS SPINNER DIALOG</string>
+    <string name="pbardialog">PROGRESS BAR DIALOG</string>
+
+
+
+
+    <string name="loremipsum">Woody equal ask saw sir weeks aware decay. Entrance prospect removing we packages strictly is no smallest he. For hopes may chief get hours day rooms. Oh no turned behind polite piqued enough at.
+       Forbade few through inquiry blushes you. Cousin no itself eldest it in dinner latter missed no.
+    </string>
+
+    <string name="popup_text">Here is your popup window</string>
+    <string name="alertdialogtitle">Feedback</string>
+    <string name="helloandroid">Hello I am Android</string>
+
+
+</resources>
